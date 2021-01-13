@@ -1,0 +1,1 @@
+A program to predict whether a stock price of a company will increase or decrease!
